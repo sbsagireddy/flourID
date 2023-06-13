@@ -6,4 +6,4 @@ We use [SyntheMol](https://github.com/swansonk14/SyntheMol.git), a Monte Carlo t
 
 Details for reproducing our results are provided in [fluorID.ipynb](fluorID.ipynb).
 
-A full description of the problem and the work we completed may be found in the [project report](CS_273B_final_report.pdf).
+A full description of the problem and the work we completed can be found in the [project report](CS_273B_final_report.pdf).
